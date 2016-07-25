@@ -9,17 +9,6 @@ Starbound is a space exploration game on a 2D side scrolling plane.
 It can be played single player or multiplayer and can be modified in many ways.
 
 
-Documentation
-==================================================
-
-Contents:
-
-.. toctree::
-   :maxdepth: 2
-   :glob:
-
-   *
-
 
 
 Indices and tables
