@@ -15,7 +15,7 @@ Documentation
 Contents:
 
 .. toctree::
-   :maxdepth: 0
+   :maxdepth: 1
    :titlesonly:
    :glob:
 
