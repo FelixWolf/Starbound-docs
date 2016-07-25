@@ -16,15 +16,8 @@ Contents:
 
 .. toctree::
    :maxdepth: 2
-   
-   actormovementcontroller.rst
-   animator.rst
-   conf.py
-   config.rst
-   entity.rst
-   item.rst
-   movementcontroller.rst
-   root.rst
-   statuscontroller.rst
-   world.rst
+   :titlesonly:
+   :glob:
+
+   *
 
