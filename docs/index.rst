@@ -9,11 +9,22 @@ Starbound is a space exploration game on a 2D side scrolling plane.
 It can be played single player or multiplayer and can be modified in many ways.
 
 
+Documentation
+==================================================
 
+Contents:
 
-Indices and tables
-==================
+.. toctree::
+   :maxdepth: 2
+   
+   actormovementcontroller.rst
+   animator.rst
+   conf.py
+   config.rst
+   entity.rst
+   item.rst
+   movementcontroller.rst
+   root.rst
+   statuscontroller.rst
+   world.rst
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
