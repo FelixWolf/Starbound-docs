@@ -19,5 +19,5 @@ Contents:
    :titlesonly:
    :glob:
 
-   *
+   lua/*
 
