@@ -15,9 +15,8 @@ Documentation
 Contents:
 
 .. toctree::
-   :maxdepth: 2
-   :titlesonly:
+   :maxdepth: 3
    :glob:
 
    lua/*
-
+   *
